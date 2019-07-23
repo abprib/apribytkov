@@ -1,2 +1,2 @@
 # apribytkov
-Stack of public programs
+Lessons on Java programming from different sources
